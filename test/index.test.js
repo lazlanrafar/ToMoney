@@ -1,3 +1,3 @@
-const setMoney = require("../");
+const toMoney = require("../");
 
-console.log(setMoney(1000000));
+console.log(toMoney(1000000));
